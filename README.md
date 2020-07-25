@@ -3,7 +3,7 @@
 ## Hello Friend, I'm Augustine
 #### CSE Student | Freelancer | Autodidact
 
-[<img src='https://image.flaticon.com/icons/svg/145/145812.svg' alt='twitter' height='35'>](https://www.twitter.com/augustineaykara/)  [<img src='https://image.flaticon.com/icons/svg/145/145807.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/augustineaykara/)  [<img src='https://image.flaticon.com/icons/svg/2111/2111463.svg' alt='instagram' height='35'>](https://www.instagram.com/augustineaykara/)  [<img src='https://image.flaticon.com/icons/svg/841/841364.svg' alt='website' height='35'>](http://augustine.aykara4.com)  [<img src='https://image.flaticon.com/icons/svg/1828/1828817.svg' alt='more' height='35'>](https://augustineaykara.github.io/)
+[<img src='https://image.flaticon.com/icons/svg/145/145812.svg' alt='twitter' height='35'>](https://www.twitter.com/augustineaykara/)  [<img src='https://image.flaticon.com/icons/svg/145/145807.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/augustineaykara/)  [<img src='https://image.flaticon.com/icons/svg/2111/2111463.svg' alt='instagram' height='35'>](https://www.instagram.com/augustineaykara/)  [<img src='https://image.flaticon.com/icons/svg/841/841364.svg' alt='website' height='35'>](http://augustine.aykara4.com)  [<img src='https://image.flaticon.com/icons/svg/3039/3039377.svg' alt='more' height='35'>](https://augustineaykara.github.io/)
 
 <br/>
 
