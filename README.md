@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/AugustineAykara/augustineaykara/blob/master/illustration.png" width=550px height=500px/>
+<img align="right" src="https://github.com/AugustineAykara/augustineaykara/blob/master/illustration.png" width=500px height=450px/>
 
 ## Hello Friend, I'm Augustine
 #### CSE Student | Freelancer | Autodidact
