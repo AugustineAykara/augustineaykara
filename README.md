@@ -4,7 +4,7 @@
 - ⚡ Fun facts :
   - *I prefer Map Comprehensions*
   - *I prefer Tabs for indentation*
-  - *I prefer CamelCase for naming variables*
+  - *I prefer camelCase for naming variables*
 
 <img src="https://github-readme-stats.vercel.app/api?username=augustineaykara&count_private=true&show_icons=true&bg_color=F7F9F9" />
 
