@@ -6,7 +6,7 @@
   - *I prefer Tabs for indentation*
   - *I prefer camelCase for naming variables*
 
-<img src="https://github-readme-stats.vercel.app/api?username=augustineaykara&count_private=true&show_icons=true&bg_color=F7F9F9" />
+<img src="https://github-readme-stats.vercel.app/api?username=augustineaykara&count_private=true&show_icons=true&&theme=tokyonight" />
 
 
 
